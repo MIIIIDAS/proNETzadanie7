@@ -1,0 +1,1 @@
+Zadanie 7. Proszę przeprowadzić testy wydajności kopiowania dużych plików przy pomocy napisanego w poprzednim zadaniu kodu. W tym celu proszę wygenerować w swoim programie pliki o wielkości 300MB a następnie zbadać czas wykonywania operacji kopiowania z użyciem kolejnych funkcji .NET.
